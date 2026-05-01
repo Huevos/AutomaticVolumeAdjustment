@@ -21,8 +21,6 @@
 #  distributed other than under the conditions noted above.
 #
 from Screens.Screen import Screen
-from Components.ActionMap import ActionMap
-from Components.Sources.StaticText import StaticText
 from Components.config import config
 from Components.ServiceEventTracker import ServiceEventTracker
 from enigma import iPlayableService, iServiceInformation, eDVBVolumecontrol, eServiceCenter, eServiceReference
