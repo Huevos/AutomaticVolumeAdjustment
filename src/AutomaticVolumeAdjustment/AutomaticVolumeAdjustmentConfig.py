@@ -24,7 +24,7 @@
 from . import _
 
 from Components.config import ConfigSubsection, ConfigText, \
-	config, ConfigInteger, Config, ConfigSubList, ConfigDirectory, NoSave, ConfigYesNo, ConfigSelectionNumber, ConfigSelection
+	ConfigInteger, Config, ConfigSubList, ConfigDirectory, NoSave, ConfigYesNo, ConfigSelectionNumber, ConfigSelection
 from os import path as os_path, open as os_open, close as os_close, O_RDWR as os_O_RDWR, O_CREAT as os_O_CREAT
 from pickle import load as pickle_load, dump as pickle_dump
 from enigma import eEnv

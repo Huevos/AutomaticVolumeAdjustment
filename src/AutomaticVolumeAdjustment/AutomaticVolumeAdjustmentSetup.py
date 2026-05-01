@@ -32,7 +32,7 @@ from Components.MenuList import MenuList
 from Components.Sources.StaticText import StaticText
 from Components.ActionMap import ActionMap
 from Components.ConfigList import ConfigListScreen
-from Components.config import getConfigListEntry, config
+from Components.config import getConfigListEntry
 from ServiceReference import ServiceReference
 from .AutomaticVolumeAdjustment import AutomaticVolumeAdjustment
 from .AutomaticVolumeAdjustmentConfig import AutomaticVolumeAdjustmentConfig
