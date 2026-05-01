@@ -2,7 +2,7 @@ from setuptools import setup
 import setup_translate
 
 pkg = 'SystemPlugins.AutomaticVolumeAdjustment'
-setup(name='enigma2-plugin-systemplugins-automaticvolumeadjustment,
+setup(name='enigma2-plugin-systemplugins-automaticvolumeadjustment',
        version='1.0',
        description='AutomaticVolumeAdjustment',
        package_dir={pkg: 'AutomaticVolumeAdjustment'},
